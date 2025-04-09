@@ -1,7 +1,8 @@
 ![Alt text](https://github.com/user-attachments/assets/0d4812c8-a7a8-4129-9e2f-1835e2e6d5f4)
 
-
 # VisionHelp: An Assistive Vision System for Object Detection and Navigation
+#### &nbsp;&nbsp;[🔗 DevPOST](https://devpost.com/software/walkmate-ubckqz?ref_content=my-projects-tab&ref_feature=my_projects)
+
 
 VisionHelp is an innovative assistive vision system designed to aid individuals with visual impairments. It combines object detection, depth estimation, and navigation guidance to provide users with a more interactive and accessible environment.
 
